@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WHfFt9VyD0qx94s8xktTKHCpTUqm+LIUXcu3hpy+NMJHMKI4rrJCr0pPv6oMV4htTAkTFkRT2ABKlABAWEm+Lg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user1\\Documents\\תיכנות ו\\פרקטיקום\\פרקטיקוד2\\HtmlSerializer\\HtmlSerializer\\HtmlSerializer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user1\\.nuget\\packages\\mongodb.bson\\2.23.1\\mongodb.bson.2.23.1.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
